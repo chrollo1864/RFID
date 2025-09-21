@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">RFID</string>
+    <string name="signin1"><font color="white">Enter your Email and password to login</font></string>
+    <string name="signin">
+        <font size="25">
+            <font color="white">
+                Sign in to your
+            </font>
+        </font>
+    </string>
+    <string name="Acc">
+        <font size="25">
+            <font color="white">
+                Account
+            </font>
+        </font>
+    </string>
+    <string name="login">
+        <font size="25">
+            <font color="black">
+                Login
+            </font>
+        </font>
+    </string>
+</resources>
