@@ -155,7 +155,7 @@
                 android:clickable="true"
                 android:focusable="true"
                 android:text="Forgot password?"
-                android:textColor="@color/blue" />
+                android:textColor="@drawable/hover_effect" />
         </LinearLayout>
         <!-- End -->
 
