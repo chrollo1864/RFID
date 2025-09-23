@@ -95,7 +95,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="15dp"
             android:background="@drawable/button_style"
-            android:text="Try another why"
+            android:text="Try another way"
             android:textColor="@color/white" />
 
         <Button
