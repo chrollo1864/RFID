@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.RFID">
         <activity
+            android:name=".forgot_number"
+            android:exported="false" />
+        <activity
             android:name=".forgot"
             android:exported="false" />
         <activity

@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">RFID</string>
     <string name="email">Email</string>
+    <string name="num">Contact Number</string>
     <string name="pass">Password</string>
     <string name="forgot"><font color="blue">Forgot Password?</font></string>
     <string name="signin1"><font color="white">Enter your Email and password to login</font></string>
@@ -34,6 +35,7 @@
     </string>
     <string name="rfid"><font color="white">RFID Application</font></string>
     <string name="entrmail"><font color="white">Enter your email address</font></string>
+    <string name="entrnum"><font color="white">Enter your Contact Number</font></string>
     <string name="send"><font color="white">Send ➔</font></string>
     <string name="try_anther"><font color="white">try another way</font></string>
 
